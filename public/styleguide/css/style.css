@@ -1,0 +1,41 @@
+/*
+ * YOUR STYLES HERE
+ */
+body {
+	font-family: Verdana, sans-serif;
+}
+
+#viewall-atoms-global h2 {
+	font-family: sans-serif;
+}
+
+a {
+	color: #f26532;
+}
+
+.sg-header {
+    background: #b4b2b2;
+}
+
+.sg-header a {
+    color: #fff;
+}
+
+.sg-header a.active, .sg-header a:focus, .sg-header a:hover {
+    color: #fff;
+    background: #423F43;
+}
+
+.sg-current-size {
+    color: #423f43;
+}
+
+.sg-input {
+    background: #F1F1F1;
+    margin-right: 1px;
+}
+
+.sg-tools-toggle {
+    background: #c9c9c9;
+    color: #423f43;
+}
